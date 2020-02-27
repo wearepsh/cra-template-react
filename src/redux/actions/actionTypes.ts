@@ -1,0 +1,4 @@
+export default {
+	EXAMPLE_ACTION_TYPE: 'EXAMPLE_ACTION_TYPE',
+};
+
