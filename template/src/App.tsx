@@ -40,11 +40,11 @@ export default function App() {
 
 function Home() {
 	return (
-    <>
-      <h2>Home</h2>
-      <Example />
-    </>
-  );
+		<>
+			<h2>Home</h2>
+			<Example />
+		</>
+	);
 }
 
 function About() {

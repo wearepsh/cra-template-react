@@ -1,11 +1,18 @@
 import React from 'react';
+import ExampleComponent from '../../components/Example/Example'
 
-// import colors from '../../styles/colors';
+type ExampleProps = {
+ 	timepstamp: number,
+ 	exampleAction: (timepstamp: number) => void;
+};
 
-function Example() {
+function Example(props: ExampleProps) {
 	return (
-		<div>Example View</div>
-	)
+		<div>
+			Example View
+			<ExampleComponent />
+		</div>
+	);
 }
 
 export default Example;
