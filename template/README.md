@@ -1,4 +1,15 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [PSh React template](https://github.com/facebook/create-react-app).
+
+## Configure Local Environment
+>Create .env file (like .env.sample one)
+You can add configs for each environment and use them as shown in `services/api.ts`
+
+## Helpers
+
+### Translator
+
+You can use translator helper as: `localize('key of the translation')` to show texts translated
+
 
 ## Available Scripts
 
@@ -11,6 +22,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
+
+### `npm run eslint`
+
+Runs eslint linter so you can check and correct mistakes.
 
 ### `npm test`
 
