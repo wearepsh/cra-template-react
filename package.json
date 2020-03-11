@@ -1,11 +1,11 @@
 {
   "name": "cra-template-psh-react",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "psh react template",
   "main": "template.json",
   "repository": {
     "type": "git",
-    "url": "git+http://gitlab.psf.com.ar/psh/cra-template-psh-react.git"
+    "url": "git+https://github.com/wearepsh/cra-template-react.git"
   },
   "keywords": [
     "redux",
@@ -14,7 +14,7 @@
     "typescript",
     "axios"
   ],
-  "author": "gi",
+  "author": "gisellezeitoune",
   "license": "MIT",
-  "homepage": "http://gitlab.psf.com.ar/psh/cra-template-psh-react.git#readme"
+  "homepage": "https://github.com/wearepsh/cra-template-react.git#readme"
 }

@@ -1,4 +1,4 @@
-This project was bootstrapped with [PSh React template](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [PSh React template](https://github.com/wearepsh/cra-template-react).
 
 ## Configure Local Environment
 >Create .env file (like .env.sample one)
