@@ -1,7 +1,7 @@
 This project was bootstrapped with [PSh React template](https://github.com/wearepsh/cra-template-react).
 
 ## Configure Local Environment
->Create .env file (like .env.sample one)
+Create .env file (like .env.sample one)<br />
 You can add configs for each environment and use them as shown in `services/api.ts`
 
 ## Helpers
