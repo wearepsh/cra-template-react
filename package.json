@@ -9,8 +9,10 @@
   },
   "keywords": [
     "redux",
+    "sagas",
     "router",
-    "typescript"
+    "typescript",
+    "axios"
   ],
   "author": "gi",
   "license": "MIT",
