@@ -1,6 +1,6 @@
 {
   "name": "cra-template-psh-react",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "psh react template",
   "main": "template.json",
   "repository": {
